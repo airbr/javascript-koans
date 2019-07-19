@@ -1,3 +1,21 @@
+
+
+
+## Fork Notes
+
+I have previously run EdgeCase's Ruby Koans in the past when I learned some Ruby.
+
+This Repo is to document some of my experience with JavaScript Koans.
+
+
+
+
+
+
+### Original ReadMe:
+
+
+
 # javascript-koans
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
